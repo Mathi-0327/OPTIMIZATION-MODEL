@@ -13,7 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 ## project discription
-This project is an internship-level Supply Chain Transportation Optimization Model developed using Linear Programming (LP) with the PuLP library in Python. The goal of this project is to solve a real-world logistics business problem where a company distributes products from multiple factories to multiple warehouses located in different cities.
+This project is a Supply Chain Transportation Optimization Model developed using Linear Programming (LP) with the PuLP library in Python. The goal of this project is to solve a real-world logistics business problem where a company distributes products from multiple factories to multiple warehouses located in different cities.
 
 Each factory has a limited supply capacity, meaning it cannot ship beyond its available production limit. Similarly, each warehouse has a fixed demand requirement that must be fulfilled to maintain smooth operations. Transportation cost varies for every factory-to-warehouse route. The objective of this model is to determine the optimal shipment quantity for each route such that all warehouse demands are satisfied, factory supply limits are not exceeded, and the overall transportation cost is minimized.
 
