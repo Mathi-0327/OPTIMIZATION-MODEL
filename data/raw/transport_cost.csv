@@ -1,0 +1,13 @@
+Factory,Warehouse,Cost_per_Unit
+Factory_1,Chennai,4
+Factory_1,Bangalore,6
+Factory_1,Hyderabad,8
+Factory_1,Mumbai,9
+Factory_2,Chennai,5
+Factory_2,Bangalore,4
+Factory_2,Hyderabad,3
+Factory_2,Mumbai,6
+Factory_3,Chennai,9
+Factory_3,Bangalore,7
+Factory_3,Hyderabad,4
+Factory_3,Mumbai,3

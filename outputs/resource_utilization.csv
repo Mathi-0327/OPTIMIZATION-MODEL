@@ -1,0 +1,4 @@
+Factory,Supply_Available,Units_Shipped,Remaining_Supply,Utilization_%
+Factory_1,500,400.0,100.0,80.0
+Factory_2,600,600.0,0.0,100.0
+Factory_3,400,300.0,100.0,75.0

@@ -1,0 +1,13 @@
+Factory,Warehouse,Cost_per_Unit,Supply,Demand
+Factory_1,Chennai,4,500,400
+Factory_1,Bangalore,6,500,350
+Factory_1,Hyderabad,8,500,300
+Factory_1,Mumbai,9,500,250
+Factory_2,Chennai,5,600,400
+Factory_2,Bangalore,4,600,350
+Factory_2,Hyderabad,3,600,300
+Factory_2,Mumbai,6,600,250
+Factory_3,Chennai,9,400,400
+Factory_3,Bangalore,7,400,350
+Factory_3,Hyderabad,4,400,300
+Factory_3,Mumbai,3,400,250
